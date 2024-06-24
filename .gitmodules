@@ -1,0 +1,6 @@
+[submodule "LCCV"]
+	path = LCCV
+	url = https://github.com/kbarni/LCCV.git
+[submodule "ssd1306_linux"]
+	path = ssd1306_linux
+	url = https://github.com/baverbae/ssd1306_linux.git
